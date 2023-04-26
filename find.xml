@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '…/task4/task4.1.ipynb'" />
+    <option name="defaultScopeName" value="File '…/task4/task4.1.ipynb'" />
+    <option name="SEARCH_SCOPE" value="File '…/task4/task4.1.ipynb'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
